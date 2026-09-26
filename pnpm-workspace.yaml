@@ -1,0 +1,5 @@
+allowBuilds:
+  esbuild: false
+  simple-git-hooks: false
+minimumReleaseAgeExclude:
+  - rolldown-plugin-copy-files@0.2.0
