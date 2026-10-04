@@ -1,3 +1,6 @@
+> [!NOTE]
+> 由于项目[string-argv](https://github.com/mccormicka/string-argv)恢复更新，所以本仓库暂时冻结。
+
 # str-argv
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://www.lujiahao.com/sponsor)
